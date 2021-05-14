@@ -22,10 +22,10 @@ import java.util.*;
 @Service
 public class WncServiceImpl implements WncService {
     private static final String WEATHER_URI = "https://api.openweathermap.org/data/2.5/onecall?";
-    private static final String APP_ID = "7a3cf4f93845a685afa8a37d74d6ab5d";
-    private static final String ACCOUNT_SID = "AC95cd2e72907818c57b16f2ad7bf80a82";
-    private static final String AUTH_TOKEN = "414108418903c404d6f6532c205381a8";
-    private static final String TRAIL_NUMBER = "+13142741942";
+    private static final String APP_ID = "";
+    private static final String ACCOUNT_SID = "";
+    private static final String AUTH_TOKEN = "";
+    private static final String TRAIL_NUMBER = "";
 
     private static Logger log = LoggerFactory.getLogger(WncServiceImpl.class);
 
